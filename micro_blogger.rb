@@ -18,4 +18,3 @@ end
 
 blogger = MicroBlogger.new
 blogger.tweet("MicroBlogger Initialized")
-blogger.tweet("tweet dammmittt")
